@@ -1,0 +1,7 @@
+title: API generated from Github
+contact:
+  name: Marvin Martens
+  url: https://github.com/marvinm2
+licence: https://github.com/marvinm2/aopwikirdf-grlc/LICENSE
+queries:
+  - https://github.com/marvinm2/aopwikirdf-grlc/allAOPs.rq
